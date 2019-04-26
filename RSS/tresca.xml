@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+
+<channel>
+
+<title>Esto es un rss</title>
+<link>http://localhost:8080/RSS/tresca.xml</link>
+<description>Recibirás noticias de la cartelera del cine en córdoba capital.</description>
+
+<item>
+
+<title>Cartelera del cine HOYTS</title>
+<link>https://www.cinemarkhoyts.com.ar/</link>
+<description>Acá podés ver la cartelera del cine hoyts de hoy.</description>
+
+</item>
+
+<item>
+
+<title>Cartelera del cine SHOWCASE</title>
+<link>https://www.todoshowcase.com/cine/5/cordoba</link>
+<description>Acá podés ver la cartelera del cine showcase de hoy.</description>
+
+</item>
+
+<item>
+
+<title>Cartelera de CINES DINOSAURIO</title>
+<link>https://www.cinesdinomall.com.ar/Cartelera</link>
+<description>Acá podés ver la cartelera de cines dinosaurio de hoy.</description>
+
+</item>
+
+<item>
+
+<title>Cartelera del cine GRAN REX</title>
+<link>http://www.cinesgranrex.com.ar/cartelera</link>
+<description>Acá podés ver la cartelera del cine gran rex de hoy.</description>
+
+</item>
+
+</channel>
+</rss>
