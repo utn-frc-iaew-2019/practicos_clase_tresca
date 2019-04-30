@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                method: "GET",
+                url: "http://jsonplaceholder.typicode.com/users/",
+                data: {},
+                contentType: "application/json; charset=utf-8"
+            })
+            .done(function (msg) {
+                $("#lista").append("<h1 >Listado de usuarios</h2>");
+                $("#lista").append("<br/>");
+                $.each(msg, function (index, item) {
+                    $("#lista").append("<ul><b>Id:  </b>" + item.id + "</ul>");
+                    $("#lista").append("<ul><b>Nombre:  </b>" + item.name + "</ul>");
+                    $("#lista").append("<ul><b>Username:  </b>" + item.username + "</ul>");
+                    $("#lista").append("<hr/>");
+                });
+            }).fail(function (msg) {
+                alert("Error");
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="lista"></div>
+</body>
+</html>

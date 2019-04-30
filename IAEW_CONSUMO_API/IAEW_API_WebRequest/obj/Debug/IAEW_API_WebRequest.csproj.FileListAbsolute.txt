@@ -1,0 +1,18 @@
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.exe.config
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.exe
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.pdb
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\Newtonsoft.Json.dll
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\Newtonsoft.Json.xml
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_WebRequest.csprojResolveAssemblyReference.cache
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_WebRequest.csproj.CoreCompileInputs.cache
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_Test.exe
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_Test.pdb
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.exe.config
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_Test.pdb
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.exe
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\IAEW_API_Test.pdb
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\Newtonsoft.Json.dll
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\bin\Debug\Newtonsoft.Json.xml
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_WebRequest.csprojResolveAssemblyReference.cache
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_WebRequest.csproj.CoreCompileInputs.cache
+D:\IAEW_CONSUMO_API\IAEW_API_WebRequest\obj\Debug\IAEW_API_Test.exe

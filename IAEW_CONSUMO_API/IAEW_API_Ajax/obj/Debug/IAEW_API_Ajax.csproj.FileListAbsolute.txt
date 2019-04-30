@@ -1,0 +1,17 @@
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.dll.config
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.dll
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.pdb
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\Microsoft.Web.Infrastructure.dll
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\Microsoft.Web.Infrastructure.xml
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.csproj.CoreCompileInputs.cache
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.dll
+D:\5k4_MATERIAL_2019-master\semana 6 - Servicios Rest - Consumo + Seguridad\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.pdb
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.dll.config
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.dll
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\IAEW_API_Ajax.pdb
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\Microsoft.Web.Infrastructure.dll
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\bin\Microsoft.Web.Infrastructure.xml
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.csprojResolveAssemblyReference.cache
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.csproj.CoreCompileInputs.cache
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.dll
+D:\IAEW_CONSUMO_API\IAEW_API_Ajax\obj\Debug\IAEW_API_Ajax.pdb
